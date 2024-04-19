@@ -17,7 +17,7 @@ const ContenidoCentral = () => {
   return (
     <View style={styles.contenidoCentral}>
       <Text style={styles.textoCentral}>¡Buenas noches!</Text>
-      <Text>LUIS MARIO</Text>
+      <Text>Randall</Text>
       <Image source={require('./assets/huella.png')} style={styles.iconoHuella} />
       <Text style={styles.mensajeHuella}>Ingresa con tu contraseña</Text>
     </View>
